@@ -26,5 +26,5 @@ npm run start
 # Or to run locally use 
 
 ```shell
-npm run start
+npm run dev
 ```
